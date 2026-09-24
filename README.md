@@ -8,4 +8,4 @@ So the goal for this is the following:
 
 ----The Topology of My systems----
 (Note: the names of these systems come from the *Touhou Project* series of games, there will be hyperlinks on their names)
-Staging Enviorment: [`meiling`]([https://touhouwiki.net](https://en.touhouwiki.net/wiki/Hong_Meiling))
+Staging Enviorment: [`meiling`](https://en.touhouwiki.net/wiki/Hong_Meiling)
